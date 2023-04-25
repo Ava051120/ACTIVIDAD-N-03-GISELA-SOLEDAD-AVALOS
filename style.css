@@ -1,0 +1,17 @@
+h1{color: blueviolet;}
+h2{color: blue;}
+ 
+p.texto{color: aqua;}
+p.textoespecial{color: bisque;}
+p.especial{color: coral;
+}
+
+div p,h3{
+    color: darkmagenta;
+}
+*{
+    font-size: 24px;
+    color: salmon;
+}
+p.li{color: darkred;}
+ /*esto es una practica*/
